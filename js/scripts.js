@@ -6,5 +6,5 @@ function Address(firstName,lastName,contact,location){
   this.contact=contact;
   this.location=location;
 };
-var Kevine=new Address("Kevine", "Igihonzi",07884714088,"Langata");
-console.log(Kevine);
+// var Kevine=new Address("Kevine", "Igihonzi",07884714088,"Langata");
+// console.log(Kevine);
