@@ -8,3 +8,11 @@ function Address(firstName,lastName,contact,location){
 };
 // var Kevine=new Address("Kevine", "Igihonzi",07884714088,"Langata");
 // console.log(Kevine);
+
+
+// front-end
+$(document).ready(function(){
+  $("#add").click(function(){
+    $(".hidden").toggle();
+  })
+});

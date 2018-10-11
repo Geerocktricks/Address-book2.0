@@ -9,4 +9,17 @@ body{
 /* **************************group-form***************************** */
 input{
   display: block;
+  border-radius: 1%;
+}
+/* ******************************button************************************ */
+button{
+  margin: 20px;
+  margin-left: 0px;
+}
+.second{
+  margin-left: -23px;
+}
+/* ********************************hidden************************************ */
+.hidden{
+  display: none;
 }
